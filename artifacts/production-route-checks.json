@@ -1,0 +1,142 @@
+[
+  {
+    "route": "/",
+    "badImages": 0,
+    "heading": "One restaurant.Every touchpoint.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant",
+    "badImages": 0,
+    "heading": "A little fire.A lot of feeling.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant/menu",
+    "badImages": 0,
+    "heading": "Good thingscome to the table.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant/reserve",
+    "badImages": 0,
+    "heading": "Your evening. Your table.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant/reservations",
+    "badImages": 0,
+    "heading": "A few good eveningsto look forward to.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant/about",
+    "badImages": 0,
+    "heading": "A table forthe way we live.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant/contact",
+    "badImages": 0,
+    "heading": "Good eveningsstart right here.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/restaurant/private-dining",
+    "badImages": 0,
+    "heading": "Your people.Your evening.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin",
+    "badImages": 0,
+    "heading": "A good evening starts here.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin/reservations",
+    "badImages": 0,
+    "heading": "Every table has a story.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin/floor",
+    "badImages": 0,
+    "heading": "Keep the evening moving.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin/guests",
+    "badImages": 0,
+    "heading": "Remember the little things.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin/menu",
+    "badImages": 0,
+    "heading": "A menu that stays in season.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin/analytics",
+    "badImages": 0,
+    "heading": "A clearer picture of your restaurant.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/admin/settings",
+    "badImages": 0,
+    "heading": "The details behind the evening.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/app",
+    "badImages": 0,
+    "heading": "Hello, Ishita.Let’s make an evening.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/app/explore",
+    "badImages": 0,
+    "heading": "Find your next favourite.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/app/reserve",
+    "badImages": 0,
+    "heading": "ARDO, Park Street",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/app/bookings",
+    "badImages": 0,
+    "heading": "A few good plans.",
+    "notFound": false,
+    "overflow": false
+  },
+  {
+    "route": "/app/profile",
+    "badImages": 0,
+    "heading": "Ishita Banerjee",
+    "notFound": false,
+    "overflow": false
+  }
+]

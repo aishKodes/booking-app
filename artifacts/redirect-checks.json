@@ -1,0 +1,30 @@
+[
+  {
+    "from": "/menu?search=garden",
+    "to": "http://127.0.0.1:3000/restaurant/menu?search=garden"
+  },
+  {
+    "from": "/reserve?date=2026-10-12&time=20:30&guests=4",
+    "to": "http://127.0.0.1:3000/restaurant/reserve?date=2026-10-12&time=20%3A30&guests=4"
+  },
+  {
+    "from": "/reservations",
+    "to": "http://127.0.0.1:3000/restaurant/reservations"
+  },
+  {
+    "from": "/about",
+    "to": "http://127.0.0.1:3000/restaurant/about"
+  },
+  {
+    "from": "/contact",
+    "to": "http://127.0.0.1:3000/restaurant/contact"
+  },
+  {
+    "from": "/private-dining",
+    "to": "http://127.0.0.1:3000/restaurant/private-dining"
+  },
+  {
+    "from": "/reservations/f9d35b00-f776-45a7-a76e-474589924c1b",
+    "to": "http://127.0.0.1:3000/restaurant/reservations/f9d35b00-f776-45a7-a76e-474589924c1b"
+  }
+]
